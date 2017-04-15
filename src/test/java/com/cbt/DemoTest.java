@@ -7,11 +7,11 @@ public class DemoTest {
 		System.out.println("Hello world");
 		System.out.println("hello again");
 		
-		
-		for(int num=0 ; num<=100; num++){
-			if(num%2==0){
-				System.out.println(num);
-				
+//		
+//		for(int num=0 ; num<=100; num++){
+//			if(num%2==0){
+//				System.out.println(num);
+//				
 				Scanner scan = new Scanner(System.in);  
 			     
 				  System.out.print("Input a number: ");  
@@ -20,9 +20,9 @@ public class DemoTest {
 				  for (int i=0; i< 10; i++){  
 				   System.out.println(num1 + " x " + (i+1) + " = " +   
 				     (num1 * (i+1)));  
-				  }  
+//				  }  
 				
-			}
+//			}
 		}
 		
 		
